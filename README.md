@@ -3,7 +3,7 @@
 Un poco de mi:<br><br>¡Hola! Soy un estudiante de desarrollo web Full Stack en busca de trabajo. <br>Me apasiona aprender y estoy constantemente mejorando mis habilidades, estoy actualmente pasando de un<br> nivel principiante a uno intermedio en el mundo de la programación. <br>Estoy enfocado en el desarrollo de aplicaciones web utilizando tecnologías <br>como HTML, CSS, JavaScript, React, Node.js y MongoDB. Me encanta trabajar en equipo<br> y estoy listo para afrontar nuevos desafíos en el mundo del desarrollo web.
 
 <div align="center">
-<img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" style="width:100%;heigth:40%;"/>
+<!-- <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" style="width:100%;heigth:40%;"/> -->
 <div/>
 
 
