@@ -1,15 +1,15 @@
 ### Bienvenidos a mi espacio! 🚀
 # 💫 Un poco de mi:
 
-# Quien soy?
+# ✅¿Quien soy?
 <br>
 ☛Soy  estudiante de tecnologías 💻  e ingeniería ✍️ altamente motivado y comprometido, con una sólida capacidad para aprender y aplicar conocimientos de manera efectiva en entornos profesionales. 
 
-# ¿A que me dedico?
+# ✅¿A que me dedico?
 <br>
 ☛ Actualmente me encuentro en la búsqueda de una oportunidad en el área del desarrollo Full Stack Web, donde pueda ofrecer mis habilidades y servicios, para de esa manera mostrar  mi talento y cualidades e incrementar mi background de experiencia con contenido sólido del mundo de las tecnologías.
 
-# ¿Que objetivo tengo?
+# ✅¿Que objetivo tengo?
 <br>
  ☛Estoy motivado por la posibilidad de trabajar en un entorno desafiante 📈 y en constante evolución ♻️, donde pueda aplicar y mejorar mis habilidades, y contribuir al desarrollo de soluciones innovadoras  y de alta calidad. Estoy seguro de que mi entusiasmo, dedicación y capacidad de aprendizaje 🙏 me permitirán ser un activo valioso para tu equipo de desarrollo.
 <br><br>
@@ -25,7 +25,7 @@
  <br>
 
 
-## 🌐 ¿Cuales son mis redes?, te las dejo acá abajo 😉:
+# 🌐 ¿Cuales son mis redes?, te las dejo acá abajo 😉:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marcos_str#3939) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marco-salazar-torrealba-381059211/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/marcos_nattu) 
 <!--  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/your-work/)  -->
 
