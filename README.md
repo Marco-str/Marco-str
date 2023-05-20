@@ -1,5 +1,5 @@
-### Bienvenidos a mi espacio! 🚀
-# 💫 Un poco de mi:
+
+#                                                                  💫  Bienvenidos a mi espacio! 🚀
 
 # ✅¿Quien soy?
 <br>
