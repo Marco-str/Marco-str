@@ -1,10 +1,13 @@
-### Bienvenidos a mi espacio!
+### Bienvenidos a mi espacio! 🚀
 # 💫 Un poco de mi:
-#Quien soy?
-<br><br> ☛Soy  estudiante de tecnologías 💻  e ingeniería ✍️ altamente motivado y comprometido, con una sólida capacidad para aprender y aplicar conocimientos de manera efectiva en entornos profesionales. 
 
-#¿A que me dedico?
-<br><br> ☛ Actualmente me encuentro en la búsqueda de una oportunidad en el área del desarrollo Full Stack Web, donde pueda ofrecer mis habilidades y servicios, para de esa manera mostrar  mi talento y cualidades e incrementar mi background de experiencia con contenido sólido del mundo de las tecnologías.
+# Quien soy?
+<br><br>
+☛Soy  estudiante de tecnologías 💻  e ingeniería ✍️ altamente motivado y comprometido, con una sólida capacidad para aprender y aplicar conocimientos de manera efectiva en entornos profesionales. 
+
+# ¿A que me dedico?
+<br><br> 
+☛ Actualmente me encuentro en la búsqueda de una oportunidad en el área del desarrollo Full Stack Web, donde pueda ofrecer mis habilidades y servicios, para de esa manera mostrar  mi talento y cualidades e incrementar mi background de experiencia con contenido sólido del mundo de las tecnologías.
 
 # ¿Que objetivo tengo?
 <br><br> 
@@ -16,6 +19,8 @@
 
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" style="width:100%;heigth:40%;"/> -->
+ <img src=" https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47u805fkzoqorpg0eea15n9f6ia9bajo8m0trmz62o&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%;heigth:40%;"/>
+
 <div/>
 
 
