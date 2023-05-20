@@ -12,9 +12,9 @@
 # ¿Que objetivo tengo?
 <br>
  ☛Estoy motivado por la posibilidad de trabajar en un entorno desafiante 📈 y en constante evolución ♻️, donde pueda aplicar y mejorar mis habilidades, y contribuir al desarrollo de soluciones innovadoras  y de alta calidad. Estoy seguro de que mi entusiasmo, dedicación y capacidad de aprendizaje 🙏 me permitirán ser un activo valioso para tu equipo de desarrollo.
-<br>
+<br><br>
 ☛Mi formacion previa orientada a proyectos de desarrollo web ✅ me ha permitido adquirir un sólido conocimiento de lenguajes y herramientas como HTML, CSS, JavaScript, React y Node.js, entre otros. Además, he demostrado habilidades en el trabajo en equipo y la resolución de problemas complejos, lo que me permite contribuir de manera efectiva a proyectos de alta complejidad.
-
+<br><br>
  
 
 <div align="center">
@@ -22,6 +22,7 @@
  <img src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width:100%;heigth:40%;"/>
 
 <div/>
+ <br>
 
 
 ## 🌐 ¿Cuales son mis redes?, te las dejo acá abajo 😉:
