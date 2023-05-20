@@ -2,24 +2,24 @@
 # 💫 Un poco de mi:
 
 # Quien soy?
-<br><br>
+<br>
 ☛Soy  estudiante de tecnologías 💻  e ingeniería ✍️ altamente motivado y comprometido, con una sólida capacidad para aprender y aplicar conocimientos de manera efectiva en entornos profesionales. 
 
 # ¿A que me dedico?
-<br><br> 
+<br>
 ☛ Actualmente me encuentro en la búsqueda de una oportunidad en el área del desarrollo Full Stack Web, donde pueda ofrecer mis habilidades y servicios, para de esa manera mostrar  mi talento y cualidades e incrementar mi background de experiencia con contenido sólido del mundo de las tecnologías.
 
 # ¿Que objetivo tengo?
-<br><br> 
+<br>
  ☛Estoy motivado por la posibilidad de trabajar en un entorno desafiante 📈 y en constante evolución ♻️, donde pueda aplicar y mejorar mis habilidades, y contribuir al desarrollo de soluciones innovadoras  y de alta calidad. Estoy seguro de que mi entusiasmo, dedicación y capacidad de aprendizaje 🙏 me permitirán ser un activo valioso para tu equipo de desarrollo.
-<br><br> 
+<br>
 ☛Mi formacion previa orientada a proyectos de desarrollo web ✅ me ha permitido adquirir un sólido conocimiento de lenguajes y herramientas como HTML, CSS, JavaScript, React y Node.js, entre otros. Además, he demostrado habilidades en el trabajo en equipo y la resolución de problemas complejos, lo que me permite contribuir de manera efectiva a proyectos de alta complejidad.
 
  
 
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" style="width:100%;heigth:40%;"/> -->
- <img src=" https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47u805fkzoqorpg0eea15n9f6ia9bajo8m0trmz62o&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%;heigth:40%;"/>
+ <img src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width:100%;heigth:40%;"/>
 
 <div/>
 
