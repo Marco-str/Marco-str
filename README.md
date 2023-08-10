@@ -2,19 +2,19 @@
 
 # ✅¿Quien soy?
 <br>
-☛Soy  estudiante de tecnologías 💻  e ingeniería ✍️ altamente motivado y comprometido, con una sólida capacidad para aprender y aplicar conocimientos de manera efectiva en entornos profesionales.
+☛ Soy un profesional altamente motivado y comprometido en el campo de tecnologías e ingeniería, con habilidades sólidas para aprender y aplicar conocimientos de manera efectiva en entornos profesionales. Como desarrollador Full Stack y estudiante de ingeniería en Computación y Mecánica, mi enfoque se centra en el Backend, donde creo servicios robustos y seguros utilizando C#, Java y JavaScript para soluciones en producción y desarrollo. Mi constante capacitación en tecnologías como NestJs, Spring, NodeJs y ASP.NET refleja mi pasión por el aprendizaje y la innovación. Mi enfoque organizado, curioso y metódico se traduce en decisiones puntuales y eficientes en colaboración con clientes, colegas y tareas asignadas, demostrando mi compromiso con la excelencia en el desarrollo de software, servicios y aplicaciones.
 <br> 
 
 # ✅¿A que me dedico?
 <br>
-☛ Actualmente me encuentro en la búsqueda de una oportunidad en el área del desarrollo Full Stack Web, donde pueda ofrecer mis habilidades y servicios, para de esa manera mostrar  mi talento y cualidades e incrementar mi background de experiencia con contenido sólido del mundo de las tecnologías.
+☛ Cautivado por el mundo del desarrollo Full Stack Web, aspiro a ofrecer mis habilidades y servicios como un apasionado desarrollador. Mi enfoque se dirige a resaltar mi talento y cualidades, a medida que forjo un fondo de experiencia sólido en el ámbito tecnológico. Mi destreza como desarrollador se combina con un compromiso inquebrantable de inmersión en las tecnologías del Backend. En el horizonte, se vislumbra mi incursión en Python, Nest y Django, ampliando aún más mis capacidades. Anhelo aplicar este conocimiento en un entorno profesional con maestría y dedicación.
 <br>
 
 # ✅¿Que objetivo tengo?
 <br>
- ☛Estoy motivado por la posibilidad de trabajar en un entorno desafiante 📈 y en constante evolución ♻️, donde pueda aplicar y mejorar mis habilidades, y contribuir al desarrollo de soluciones innovadoras  y de alta calidad. Estoy seguro de que mi entusiasmo, dedicación y capacidad de aprendizaje 🙏 me permitirán ser un activo valioso para tu equipo de desarrollo.
+ ☛ Estoy motivado por la posibilidad de trabajar en un entorno desafiante 📈 y en constante evolución ♻️, donde pueda aplicar y mejorar mis habilidades, y contribuir al desarrollo de soluciones innovadoras  y de alta calidad. Estoy seguro de que mi entusiasmo, dedicación y capacidad de aprendizaje 🙏 me permitirán ser un activo valioso para tu equipo de desarrollo.
 <br><br>
-☛Mi formacion previa orientada a proyectos de desarrollo web ✅ me ha permitido adquirir un sólido conocimiento de lenguajes y herramientas como HTML, CSS, JavaScript, React y Node.js, entre otros. Además, he demostrado habilidades en el trabajo en equipo y la resolución de problemas complejos, lo que me permite contribuir de manera efectiva a proyectos de alta complejidad.
+☛ Mi formacion previa orientada a proyectos de desarrollo, servicios y aplicaciones, asi como proyectos web ✅ me ha permitido adquirir un sólido conocimiento de lenguajes y herramientas como HTML, CSS, JavaScript, C#, .NET, Java, React y Node.js, entre otros. Además, he demostrado habilidades en el trabajo en equipo y la resolución de problemas complejos, lo que me permite contribuir de manera efectiva a proyectos de alta complejidad.
 <br><br>
 <br><br>
 <br><br>
